@@ -1,0 +1,6 @@
+[submodule "themisFront"]
+	path = themisFront
+	url = https://github.com/jun4ncb/themisFront.git
+[submodule "themisBack"]
+	path = themisBack
+	url = https://www.github.com/ju4ncb/themisBack.git
