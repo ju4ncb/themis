@@ -4,3 +4,6 @@
 [submodule "themisBack"]
 	path = themisBack
 	url = https://www.github.com/ju4ncb/themisBack.git
+[submodule "themisAIBack"]
+	path = themisAIBack
+	url = https://www.github.com/ju4ncb/themisAIBack.git
